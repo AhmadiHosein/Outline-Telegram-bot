@@ -7,9 +7,10 @@ a telegram bot to manage outline servers based on api
 
 
 ## Config Bot variables
-| **Variables**      	| ** Usage** 	|
+| **Variables**      	| **Usage** 	|
 |--------------------	|------------	|
-| BOT_TOKEN_TELEGRAM 	|            	|
-| API_ID_TELEGRAM    	|            	|
+| BOT_TOKEN_TELEGRAM 	| place bot token here       	|
+| API_ID_TELEGRAM    	|          	|
 | OUTLINE_SERVER_API 	|            	|
 | ADMIN_ID[LIST]     	|            	|
+| CONFIG_START_NAME   |
